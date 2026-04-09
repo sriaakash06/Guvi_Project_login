@@ -1,0 +1,13 @@
+# Security
+php/config.php
+
+# Dependencies
+vendor/
+node_modules/
+
+# Environment
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
