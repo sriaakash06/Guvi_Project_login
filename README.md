@@ -1,10 +1,10 @@
 # 🌌 Guvi 3D Authentication & Profile Dashboard
 <div align="center">
-  <img width="30%" alt="Welcome Screen" src="https://github.com/user-attachments/assets/0a202e19-0a38-49e4-8cd6-b80e231858d7" />
-  &nbsp;&nbsp;
-  <img width="30%" alt="Login Screen" src="https://github.com/user-attachments/assets/54504b05-0b20-4715-9461-b96dbb30fd6a" />
-  &nbsp;&nbsp;
-  <img width="30%" alt="Dashboard Screen" src="https://github.com/user-attachments/assets/da886557-f516-42d9-9c43-db215cbab3bb" />
+  <img width="100%" alt="Welcome Screen" src="https://github.com/user-attachments/assets/0a202e19-0c38-49e4-8cd6-b80e231858d7" />
+  <br/><br/>
+  <img width="100%" alt="Login Screen" src="https://github.com/user-attachments/assets/54504b05-0b20-4715-9461-b96dbb30fd6a" />
+  <br/><br/>
+  <img width="100%" alt="Dashboard Screen" src="https://github.com/user-attachments/assets/da886557-f516-42d9-9c43-db215cbab3bb" />
 </div>
 
 
